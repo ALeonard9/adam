@@ -47,6 +47,7 @@ Dare to Lead: Give clear, direct feedback.
 
 ## FAQ
 * What’s his pet peeve?
+  
 ![Fire](https://github.com/aleonard9/adam/blob/main/fire.png)
 
 Success Theater
