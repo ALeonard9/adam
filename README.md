@@ -54,14 +54,14 @@ Dare to Lead: Give clear, direct feedback.
 - **Lesson?** I can't help with problems I don't know about!
  
 #### What kind of communication does he like? 
-    For short informal communication, in person or MS Teams (preferably in GIF format).
-    For anything greater than 5 minutes, email. (Getting things done book above) 
+  For short informal communication, in person or MS Teams (preferably in GIF format).
+  For anything greater than 5 minutes, email. (Getting things done book above) 
  
 #### What are his career goals? / What does he see himself doing in 5 years?
-    I'm not a ladder climber. I don't chase money or titles. The metric I care about is happiness.  
+  I'm not a ladder climber. I don't chase money or titles. The metric I care about is happiness.  
  
 #### What is his definition of success?
-    Meet the demands of the business, while having fun, growing professionally, and continuously learning.
+  Meet the demands of the business, while having fun, growing professionally, and continuously learning.
  
 #### What do you value in the people who report to you? / What are your expectations of the people who work for you?
 - High do / say ratio (yes I know that is backwards)
